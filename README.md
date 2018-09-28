@@ -2,7 +2,7 @@
 
 This repository contains a (hopefully growing) collection of [Jupyter](https://jupyter.org/) notebooks illustrating various techniques in computational acoustics. So far we have
 
-* Solution of the two-dimensional Helmholtz equation using the FEM (view on nbviewer)
+* Solution of the two-dimensional Helmholtz equation using the FEM ([view it on nbviewer](https://github.com/spatialaudio/computational_acoustics/blob/master/FEM_Helmholtz_equation_2D.ipynb))
 
 
 
