@@ -5,8 +5,9 @@ This repository contains a (hopefully growing) collection of [Jupyter](https://j
 
 ## Finite Element Method (FEM)
 
-* Solution of the two-dimensional Helmholtz equation using the FEM ([view it on nbviewer](http://nbviewer.jupyter.org/github/spatialaudio/computational_acoustics/blob/master/FEM_Helmholtz_equation_2D.ipynb))
-* (Time-domain) Solution of the two-dimensional wave equation using the FEM ([view it on nbviewer](http://nbviewer.jupyter.org/github/spatialaudio/computational_acoustics/blob/master/FEM_wave_equation_2D.ipynb))
+* Solution of the two-dimensional Helmholtz equation with Neumann/Dirichlet boundary conditions ([view it on nbviewer](http://nbviewer.jupyter.org/github/spatialaudio/computational_acoustics/blob/master/FEM_Helmholtz_equation_2D.ipynb))
+* (Time-domain) Solution of the two-dimensional wave equation ([view it on nbviewer](http://nbviewer.jupyter.org/github/spatialaudio/computational_acoustics/blob/master/FEM_wave_equation_2D.ipynb))
+* Solution of the two-dimensional Helmholtz equation with Robin boundary conditions ([view it on nbviewer](http://nbviewer.jupyter.org/github/spatialaudio/computational_acoustics/blob/master/FEM_Helmholtz_equation_2D_Robin.ipynb))
 * Some example meshes ([view it on nbviewer](http://nbviewer.jupyter.org/github/spatialaudio/computational_acoustics/blob/master/FEM_example_meshes_2D.ipynb))
 
 
