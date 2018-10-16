@@ -1,6 +1,6 @@
 # Computational Acoustics
 
-![Simulated sound field]https://github.com/spatialaudio/computational_acoustics/blob/master/FEM.png
+![Simulated sound field](https://github.com/spatialaudio/computational_acoustics/blob/master/FEM.png)
 
 This repository contains a (hopefully growing) collection of [Jupyter](https://jupyter.org/) notebooks illustrating various techniques in computational acoustics.
 
