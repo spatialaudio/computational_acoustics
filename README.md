@@ -2,7 +2,7 @@
 
 ![Simulated sound field](https://github.com/spatialaudio/computational_acoustics/blob/master/FEM.png)
 
-This repository contains a (hopefully growing) collection of [Jupyter](https://jupyter.org/) notebooks illustrating various techniques in computational acoustics.
+This repository contains a (hopefully growing) collection of [Jupyter](https://jupyter.org/) notebooks illustrating various techniques in computational acoustics. You can give the repository a [Star](https://github.com/spatialaudio/computational_acoustics/stargazers) if you like the notebooks. You are invited to contribute by reporting errors and suggestions as [issues](https://github.com/spatialaudio/computational_acoustics/issues) or directly via [Sascha.Spors@uni-rostock.de](mailto:Sascha.Spors@uni-rostock.de). We are also looking forward to new examples.
 
 
 ## Finite Element Method (FEM)
